@@ -1,8 +1,8 @@
 "Gamemode"
 {
 	"base"		"base"
-	"title"		"Example"
-	"maps"		"^ex_"
+	"title"		"Capture the Kliener"
+	"maps"		"gm_construct"
 	"menusystem"	"1"
 	"workshopid"	""
 	
@@ -12,7 +12,7 @@
 		{
 			"name"		"ex_test"
 			"text"		"Test"
-			"help"		"Testing schnizzle"
+			"help"		"Ask TheTwoCans!"
 			"type"		"numeric"
 			"default"	"1"
 		}
