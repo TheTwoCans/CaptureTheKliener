@@ -15,7 +15,7 @@ local function print(s)
 end
 
 function ply:databaseDefalut()
-	self:databaseSetValue( "money", 100 )
+	self:databaseSetValue( "points", 0)
 	self:databaseSetValue( "xp", 0 )
 	local i = {}
 	i["gold1"] = { amount = 10 }
