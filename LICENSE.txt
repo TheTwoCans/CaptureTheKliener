@@ -2,3 +2,6 @@ This gamemode took hard work and effort.
 
 Don't claim it as your own, seriously.
 If you edited this gamemode credit the contributors.
+
+Gamemode creators:
+TheTwoCans
